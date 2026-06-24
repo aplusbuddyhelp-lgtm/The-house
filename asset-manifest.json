@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/The-house/static/css/main.5a83a4a4.css",
-    "main.js": "/The-house/static/js/main.1457e963.js",
+    "main.js": "/The-house/static/js/main.6e30712d.js",
     "static/js/453.9e889510.chunk.js": "/The-house/static/js/453.9e889510.chunk.js",
     "index.html": "/The-house/index.html",
     "main.5a83a4a4.css.map": "/The-house/static/css/main.5a83a4a4.css.map",
-    "main.1457e963.js.map": "/The-house/static/js/main.1457e963.js.map",
+    "main.6e30712d.js.map": "/The-house/static/js/main.6e30712d.js.map",
     "453.9e889510.chunk.js.map": "/The-house/static/js/453.9e889510.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a83a4a4.css",
-    "static/js/main.1457e963.js"
+    "static/js/main.6e30712d.js"
   ]
 }
