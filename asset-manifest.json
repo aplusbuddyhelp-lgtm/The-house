@@ -1,15 +1,22 @@
 {
-  "files": {
-    "main.css": "/The-house/static/css/main.f2c6a711.css",
-    "main.js": "/The-house/static/js/main.2cb81886.js",
-    "static/js/453.9e889510.chunk.js": "/The-house/static/js/453.9e889510.chunk.js",
-    "index.html": "/The-house/index.html",
-    "main.f2c6a711.css.map": "/The-house/static/css/main.f2c6a711.css.map",
-    "main.2cb81886.js.map": "/The-house/static/js/main.2cb81886.js.map",
-    "453.9e889510.chunk.js.map": "/The-house/static/js/453.9e889510.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.f2c6a711.css",
-    "static/js/main.2cb81886.js"
-  ]
+  "bundle.css": "bundle.44861.css",
+  "bundle.js": "bundle.144fe.esm.js",
+  "bundle.js.map": "bundle.144fe.esm.js.map",
+  "polyfills.js": "polyfills.1c5b0.esm.js",
+  "polyfills.js.map": "polyfills.1c5b0.esm.js.map",
+  "assets/favicon.ico": "assets/favicon.ico",
+  "assets/icons/android-chrome-192x192.png": "assets/icons/android-chrome-192x192.png",
+  "assets/icons/android-chrome-512x512.png": "assets/icons/android-chrome-512x512.png",
+  "assets/icons/apple-touch-icon.png": "assets/icons/apple-touch-icon.png",
+  "assets/icons/favicon-16x16.png": "assets/icons/favicon-16x16.png",
+  "assets/icons/favicon-32x32.png": "assets/icons/favicon-32x32.png",
+  "assets/icons/mstile-150x150.png": "assets/icons/mstile-150x150.png",
+  "assets/preact-logo-inverse.svg": "assets/preact-logo-inverse.svg",
+  "assets/preact-logo.svg": "assets/preact-logo.svg",
+  "bundle.44861.css.map": "bundle.44861.css.map",
+  "manifest.json": "manifest.json",
+  "sw-esm.js": "sw-esm.js",
+  "sw-esm.js.map": "sw-esm.js.map",
+  "sw.js": "sw.js",
+  "sw.js.map": "sw.js.map"
 }
